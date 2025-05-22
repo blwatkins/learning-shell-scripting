@@ -15,10 +15,10 @@ pwd
 
 ## development steps
 
-1. ### [create a new shell script file]()
-1. ### [open the shell script file]()
-1. ### [write the shell script]()
-1. ### [execute the shell script]()
+1. ### [create a new shell script file](https://blwatkins.github.io/learn-to-code/unix/2025/05/22/unix-shell-scripts.html#creating-a-shell-script-file)
+1. ### [open the shell script file](https://blwatkins.github.io/learn-to-code/unix/2025/05/22/unix-shell-scripts.html#opening-a-shell-script-file)
+1. ### [write the shell script](https://blwatkins.github.io/learn-to-code/unix/2025/05/22/unix-shell-scripts.html#writing-a-shell-script)
+1. ### [execute the shell script](https://blwatkins.github.io/learn-to-code/unix/2025/05/22/unix-shell-scripts.html#executing-a-shell-script)
 
 ----
 
