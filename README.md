@@ -13,6 +13,13 @@ Comments in a shell script start with the `#` symbol. Comments are ignored by th
 pwd
 ```
 
+## development steps
+
+1. ### [create a new shell script file]()
+1. ### [open the shell script file]()
+1. ### [write the shell script]()
+1. ### [execute the shell script]()
+
 ----
 
 Copyright (C) 2025 brittni and the polar bear LLC.
