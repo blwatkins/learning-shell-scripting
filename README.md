@@ -2,7 +2,7 @@
 
 Learning resources and notes for Unix shell scripting.
 
-## [brittni's guide to Unix](https://blwatkins.github.io/learn-to-code/unix/)
+## [brittni's guide to unix](https://blwatkins.github.io/learn-to-code/unix/)
 
 ## comments
 
